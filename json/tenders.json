@@ -1,0 +1,31 @@
+[
+    {
+      "title": "Tender for Medical Equipment Supply 2025",
+      "date": "20 April 2025",
+      "details": "Inviting sealed bids for the supply of medical equipment to District Hospitals under NHM scheme.",
+      "isNew": true,
+      "pdf": "pdfs/tender-equipment-2025.pdf"
+    },
+    {
+      "title": "Construction of Primary Health Center - Kotli",
+      "date": "17 April 2025",
+      "details": "Tender invited for civil work and infrastructure setup for PHC Kotli, Block Gohar.",
+      "isNew": true,
+      "pdf": "pdfs/tender-phc-kotli.pdf"
+    },
+    {
+      "title": "Annual Tender for Ambulance Services",
+      "date": "10 April 2025",
+      "details": "Service providers are invited to submit rates and service terms for district-wide ambulance deployment.",
+      "isNew": false,
+      "pdf": "pdfs/tender-ambulance.pdf"
+    },
+    {
+      "title": "Repair and Maintenance Work - Mandi CHC",
+      "date": "05 April 2025",
+      "details": "Tender for minor repair, painting, and sanitation improvement works at CHC Mandi.",
+      "isNew": false,
+      "pdf": "pdfs/tender-repair-chc.pdf"
+    }
+  ]
+  

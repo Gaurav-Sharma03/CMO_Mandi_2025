@@ -1,0 +1,75 @@
+{
+    "hospitals": [
+      {
+        "name": "Civil Hospital Mandi",
+        "type": "govt",
+        "phone": "01905-112233",
+        "location": "Mandi City",
+        "class": "text-success"
+      },
+      {
+        "name": "Zonal Hospital Sundernagar",
+        "type": "govt",
+        "phone": "01907-223344",
+        "location": "Sundernagar",
+        "class": "text-success"
+      },
+      {
+        "name": "Shivalik Multi-Specialty",
+        "type": "private",
+        "phone": "01905-334455",
+        "location": "Sundernagar",
+        "class": "text-danger"
+      },
+      {
+        "name": "Mandi Heart & Child Care",
+        "type": "private",
+        "phone": "01905-778899",
+        "location": "Mandi",
+        "class": "text-danger"
+      },
+      {
+        "name": "PHC Karsog",
+        "type": "phc",
+        "phone": "01907-111222",
+        "location": "Karsog",
+        "class": "text-info"
+      },
+      {
+        "name": "PHC Tihra",
+        "type": "phc",
+        "phone": "01907-333444",
+        "location": "Tihra",
+        "class": "text-info"
+      },
+      {
+        "name": "CHC Gohar",
+        "type": "chc",
+        "phone": "01907-445566",
+        "location": "Gohar",
+        "class": "text-secondary"
+      },
+      {
+        "name": "CHC Baldwara",
+        "type": "chc",
+        "phone": "01907-998877",
+        "location": "Baldwara",
+        "class": "text-secondary"
+      },
+      {
+        "name": "Ayurvedic Hospital Jogindernagar",
+        "type": "other",
+        "phone": "01907-556677",
+        "location": "Jogindernagar",
+        "class": "text-dark"
+      },
+      {
+        "name": "Naturopathy Center Pandoh",
+        "type": "other",
+        "phone": "01907-667788",
+        "location": "Pandoh",
+        "class": "text-dark"
+      }
+    ]
+  }
+  

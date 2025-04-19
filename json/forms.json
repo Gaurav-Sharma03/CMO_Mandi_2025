@@ -1,0 +1,23 @@
+{
+    "forms": [
+      {
+        "id": "birth_certificate",
+        "title": "Birth Certificate Form",
+        "description": "Official form for registering a birth in the Mandi district.",
+        "downloadLink": "pdfs/forms/birth_certificate.pdf"
+      },
+      {
+        "id": "marriage_certificate",
+        "title": "Marriage Certificate Form",
+        "description": "Application form for official marriage certificate.",
+        "downloadLink": "pdfs/forms/marriage_certificate.pdf"
+      },
+      {
+        "id": "hospital_registration",
+        "title": "Hospital Registration Form",
+        "description": "Form to register hospitals and healthcare facilities.",
+        "downloadLink": "pdfs/forms/hospital_registration.pdf"
+      }
+    ]
+  }
+  

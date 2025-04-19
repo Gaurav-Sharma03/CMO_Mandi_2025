@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Walk-in Interview for Medical Officers",
+    "date": "18 April 2025",
+    "details": "The walk-in interview for Medical Officer positions will be held at District Hospital Mandi. Please bring original documents.",
+    "isNew": true,
+    "pdf": "pdfs/walk-in-medical-officer.pdf"
+  },
+  {
+    "title": "COVID-19 Updated Guidelines",
+    "date": "15 April 2025",
+    "details": "New standard operating procedures have been released for COVID-19 containment.",
+    "isNew": true,
+    "pdf": "pdfs/covid-guidelines.pdf"
+  },
+  {
+    "title": "Annual Health Check-up Schedule for Schools",
+    "date": "10 April 2025",
+    "details": "District-wide schedule for health check-ups has been released. Kindly check school-specific timings.",
+    "isNew": false,
+    "pdf": "pdfs/health-checkup-schools.pdf"
+  },
+  {
+    "title": "Lab Technician Recruitment Notification",
+    "date": "02 April 2025",
+    "details": "Applications are invited for the post of Lab Technician under NHM scheme.",
+    "isNew": false,
+    "pdf": "pdfs/lab-technician-recruitment.pdf"
+  }
+ 
+]

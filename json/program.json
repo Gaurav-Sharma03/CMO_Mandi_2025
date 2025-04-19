@@ -1,0 +1,75 @@
+[
+    {
+      "unit": "MOH",
+      "userImage": "images/moh-user.jpg",
+      "name": "Dr. Anjali Verma",
+      "email": "anjali.verma@moh.gov.in",
+      "contact": "01905-123456",
+      "designation": "Medical Officer",
+      "programs": [
+        {
+          "name": "Mother & Child Care",
+          "description": "Ensures safe pregnancy and postnatal care with regular checkups and vaccinations."
+        },
+        {
+          "name": "Tuberculosis Awareness",
+          "description": "Community-level awareness and treatment programs for TB."
+        }
+      ]
+    },
+    {
+      "unit": "DPO UNIT-1",
+      "userImage": "images/dpo1-user.jpg",
+      "name": "Mr. Rakesh Sharma",
+      "email": "rakesh.sharma@dpo1.in",
+      "contact": "01905-654321",
+      "designation": "District Program Officer - Unit 1",
+      "programs": [
+        {
+          "name": "Nutrition for All",
+          "description": "Distribution of balanced nutrition packets for undernourished children."
+        },
+        {
+          "name": "Immunization Drive",
+          "description": "Routine immunization camps held in remote areas."
+        }
+      ]
+    },
+    {
+      "unit": "DPO UNIT-2",
+      "userImage": "images/dpo2-user.jpg",
+      "name": "Ms. Neha Thakur",
+      "email": "neha.thakur@dpo2.in",
+      "contact": "01905-789123",
+      "designation": "District Program Officer - Unit 2",
+      "programs": [
+        {
+          "name": "Adolescent Health Education",
+          "description": "Workshops in schools about hygiene, nutrition, and mental well-being."
+        },
+        {
+          "name": "Rural Sanitation Program",
+          "description": "Awareness campaigns and infrastructure for improved sanitation."
+        }
+      ]
+    },
+    {
+      "unit": "DPO UNIT-3",
+      "userImage": "images/dpo3-user.jpg",
+      "name": "Mr. Suresh Chauhan",
+      "email": "suresh.chauhan@dpo3.in",
+      "contact": "01905-987654",
+      "designation": "District Program Officer - Unit 3",
+      "programs": [
+        {
+          "name": "Women's Health Mission",
+          "description": "Programs supporting menstrual hygiene and access to gynecological care."
+        },
+        {
+          "name": "HIV Awareness Campaign",
+          "description": "Prevention and testing awareness in collaboration with NGOs."
+        }
+      ]
+    }
+  ]
+  

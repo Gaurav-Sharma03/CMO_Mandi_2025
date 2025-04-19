@@ -1,0 +1,54 @@
+{
+    "doctors": [
+      {
+        "name": "Dr. Anil Sharma",
+        "department": "Cardiology",
+        "phone": "01905-123456",
+        "location": "Mandi City",
+        "image": "images/dr_anil_sharma.jpg",
+        "services": [
+          "ECG",
+          "Cardiac Consultation",
+          "Angiography",
+          "Stress Test"
+        ]
+      },
+      {
+        "name": "Dr. Meena Verma",
+        "department": "Orthopedics",
+        "phone": "01905-789012",
+        "location": "Sundernagar",
+        "image": "images/dr_meena_verma.jpg",
+        "services": [
+          "Bone Fracture Treatment",
+          "Joint Replacement",
+          "Arthritis Management"
+        ]
+      },
+      {
+        "name": "Dr. Rajeev Kumar",
+        "department": "Pediatrics",
+        "phone": "01905-345678",
+        "location": "Karsog",
+        "image": "images/dr_rajeeve_kumar.jpg",
+        "services": [
+          "Child Vaccination",
+          "Newborn Care",
+          "General Pediatric Consultation"
+        ]
+      },
+      {
+        "name": "Dr. Neelam Rani",
+        "department": "Gynecology",
+        "phone": "01905-234567",
+        "location": "Mandi City",
+        "image": "images/dr_neelam_rani.jpg",
+        "services": [
+          "Pregnancy Checkup",
+          "PCOS Management",
+          "Ultrasound"
+        ]
+      }
+    ]
+  }
+  

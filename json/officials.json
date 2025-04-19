@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Shri Rajesh Sharma",
+      "designation": "Chief Minister",
+      "contact": "(01905) 123456",
+      "email": "rajesh.sharma@cmomandi.hp.gov.in",
+      "bio": "Shri Rajesh Sharma serves as the Chief Minister of Himachal Pradesh, with a focus on development and governance.",
+      "image": "https://via.placeholder.com/120"
+    },
+    {
+      "name": "Smt. Anjali Devi",
+      "designation": "Deputy Chief Minister",
+      "contact": "(01905) 123457",
+      "email": "anjali.devi@cmomandi.hp.gov.in",
+      "bio": "Smt. Anjali Devi works alongside the Chief Minister in shaping policies and handling administrative tasks.",
+      "image": "https://via.placeholder.com/120"
+    },
+    {
+      "name": "Dr. Neelam Kaur",
+      "designation": "Secretary",
+      "contact": "(01905) 123458",
+      "email": "neelam.kaur@cmomandi.hp.gov.in",
+      "bio": "Dr. Neelam Kaur is responsible for assisting in policy formulation and overseeing governmental departments.",
+      "image": "https://via.placeholder.com/120"
+    },
+    {
+      "name": "Mr. Ramesh Verma",
+      "designation": "Personal Secretary to Chief Minister",
+      "contact": "(01905) 123459",
+      "email": "ramesh.verma@cmomandi.hp.gov.in",
+      "bio": "Mr. Ramesh Verma assists the Chief Minister with daily scheduling, communications, and official tasks.",
+      "image": "https://via.placeholder.com/120"
+    },
+    {
+      "name": "Smt. Pooja Mehta",
+      "designation": "Press Secretary",
+      "contact": "(01905) 123460",
+      "email": "pooja.mehta@cmomandi.hp.gov.in",
+      "bio": "Smt. Pooja Mehta handles all media relations and public communications for the Chief Minister's office.",
+      "image": "https://via.placeholder.com/120"
+    },
+    {
+      "name": "Shri Vikram Singh",
+      "designation": "Administrative Officer",
+      "contact": "(01905) 123461",
+      "email": "vikram.singh@cmomandi.hp.gov.in",
+      "bio": "Shri Vikram Singh oversees the administrative operations and coordination within the Chief Minister's office.",
+      "image": "https://via.placeholder.com/120"
+    }
+  ]
+  
