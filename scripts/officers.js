@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function() {
           officerCard.classList.add("col-md-4", "col-sm-6", "col-12");
 
           officerCard.innerHTML = `
-            <div class="card shadow-sm rounded">
+            <div class="card shadow-sm my-4 rounded">
               <img src="${officer.image}" alt="${officer.name}" class="card-img-top rounded-circle mx-auto mt-3" style="width: 150px; height: 150px; object-fit: cover;">
               <div class="card-body text-center">
                 <h5 class="card-title">${officer.name}</h5>

@@ -1,75 +1,282 @@
 [
-    {
-      "unit": "MOH",
-      "userImage": "Image/candidateicon.jpg",
-      "name": "Dr. Anjali Verma",
-      "email": "anjali.verma@moh.gov.in",
-      "contact": "01905-123456",
-      "designation": "Medical Officer",
-      "programs": [
-        {
-          "name": "Mother & Child Care",
-          "description": "Ensures safe pregnancy and postnatal care with regular checkups and vaccinations."
-        },
-        {
-          "name": "Tuberculosis Awareness",
-          "description": "Community-level awareness and treatment programs for TB."
-        }
-      ]
-    },
-    {
-      "unit": "DPO UNIT-1",
-      "userImage": "Image/candidateicon.jpg",
-      "name": "Mr. Rakesh Sharma",
-      "email": "rakesh.sharma@dpo1.in",
-      "contact": "01905-654321",
-      "designation": "District Program Officer - Unit 1",
-      "programs": [
-        {
-          "name": "Nutrition for All",
-          "description": "Distribution of balanced nutrition packets for undernourished children."
-        },
-        {
-          "name": "Immunization Drive",
-          "description": "Routine immunization camps held in remote areas."
-        }
-      ]
-    },
-    {
-      "unit": "DPO UNIT-2",
-      "userImage": "Image/candidateicon.jpg",
-      "name": "Ms. Neha Thakur",
-      "email": "neha.thakur@dpo2.in",
-      "contact": "01905-789123",
-      "designation": "District Program Officer - Unit 2",
-      "programs": [
-        {
-          "name": "Adolescent Health Education",
-          "description": "Workshops in schools about hygiene, nutrition, and mental well-being."
-        },
-        {
-          "name": "Rural Sanitation Program",
-          "description": "Awareness campaigns and infrastructure for improved sanitation."
-        }
-      ]
-    },
-    {
-      "unit": "DPO UNIT-3",
-      "userImage": "Image/candidateicon.jpg",
-      "name": "Mr. Suresh Chauhan",
-      "email": "suresh.chauhan@dpo3.in",
-      "contact": "01905-987654",
-      "designation": "District Program Officer - Unit 3",
-      "programs": [
-        {
-          "name": "Women's Health Mission",
-          "description": "Programs supporting menstrual hygiene and access to gynecological care."
-        },
-        {
-          "name": "HIV Awareness Campaign",
-          "description": "Prevention and testing awareness in collaboration with NGOs."
-        }
-      ]
-    }
-  ]
-  
+  {
+    "unit": "MOH",
+    "userImage": "Image/candidateicon.jpg",
+    "name": "Dr. Dinesh Thakur",
+    "email": "mohmandihp2@gmail.com",
+    "contact": "94180-53346",
+    "designation": "Medical Officer of Health",
+    "programs": [
+      {
+        "name": "HIMS",
+        "description": "A digital platform for managing health records, ensuring smooth healthcare service delivery, and improving administrative efficiencies in hospitals."
+      },
+      {
+        "name": "RCH Portal",
+        "description": "A web-based platform aimed at improving maternal and child health by tracking health services, providing access to necessary resources, and monitoring progress."
+      },
+      {
+        "name": "IEC",
+        "description": "A program focused on spreading awareness and educating the public on health-related topics, preventive measures, and promoting healthy lifestyles."
+      },
+      {
+        "name": "QA Kayakalp",
+        "description": "A quality improvement initiative aimed at enhancing cleanliness, hygiene, and overall patient experience in healthcare facilities."
+      },
+      {
+        "name": "HRIS",
+        "description": "A system designed to manage and track human resources within healthcare institutions, including personnel data, performance, and workforce management."
+      },
+      {
+        "name": "Performance Benchmarking",
+        "description": "A program aimed at measuring the performance of healthcare facilities based on predefined criteria, ensuring better healthcare delivery and fostering a culture of continuous improvement."
+      },
+      {
+        "name": "Act like PCPNDT",
+        "description": "A program focused on the implementation of the PCPNDT Act to prevent gender-based sex selection and ensure equal rights for girls and boys."
+      },
+      {
+        "name": "Clinical Establishment Act and other Acts",
+        "description": "A set of regulations governing the functioning of healthcare establishments to ensure quality services, patient rights, and the ethical functioning of medical professionals."
+      },
+      {
+        "name": "IEDisability Camps and UDID",
+        "description": "A program aimed at organizing disability camps for identification and certification, alongside the creation of a Unique Disability ID for persons with disabilities."
+      },
+      {
+        "name": "NITI Aayog",
+        "description": "A government think tank that works on transforming health outcomes by supporting initiatives for sustainable development and better healthcare access across regions."
+      },
+      {
+        "name": "Trainings",
+        "description": "Regular training programs for healthcare professionals to enhance skills, knowledge, and efficiency in delivering quality healthcare services."
+      },
+      {
+        "name": "108-NAS",
+        "description": "A 24/7 emergency ambulance service that provides pre-hospital care and rapid transport to patients in emergencies across the country."
+      },
+      {
+        "name": "102",
+        "description": "An emergency helpline number offering ambulance services to people in need of urgent medical transport, with a focus on critical care."
+      },
+      {
+        "name": "Mera Aspatal",
+        "description": "A platform that allows citizens to provide feedback on healthcare facilities, ensuring transparency, accountability, and improving service quality."
+      },
+      {
+        "name": "Free Diagnostics",
+        "description": "A government initiative that provides free diagnostic services to all citizens, ensuring timely medical diagnosis and better health outcomes."
+      },
+      {
+        "name": "PMJAY/HIMCARE",
+        "description": "A flagship health insurance program offering free healthcare to low-income families, covering hospitalization expenses and critical treatments."
+      },
+      {
+        "name": "Transport",
+        "description": "Ensures efficient transportation services, including ambulances and patient transport for accessing health facilities, especially in remote areas."
+      },
+      {
+        "name": "NTCP",
+        "description": "A public health initiative aimed at reducing tobacco consumption through awareness campaigns, tobacco control policies, and rehabilitation programs."
+      },
+      {
+        "name": "Mental Health",
+        "description": "Focused on addressing mental health issues, offering counseling, support, and treatment to individuals with mental health disorders, ensuring better mental well-being."
+      },
+      {
+        "name": "De-addiction",
+        "description": "A program designed to help individuals struggling with addiction through treatment, rehabilitation, and awareness programs, promoting a drug-free society."
+      },
+      {
+        "name": "WHC MMU",
+        "description": "Mobile healthcare units that provide specialized medical care and services to women in rural and remote areas, ensuring better access to healthcare."
+      },
+      {
+        "name": "RKS & JAS",
+        "description": "Community-based healthcare initiatives that promote patient welfare, support healthcare management, and foster public participation in health governance."
+      },
+      {
+        "name": "COTPA ACT",
+        "description": "An act that regulates the advertisement, sale, and consumption of tobacco products to curb tobacco-related health issues and protect non-smokers."
+      },
+      {
+        "name": "Hub and Spoke",
+        "description": "A healthcare delivery model where specialized care (hub) is provided in central locations, with outreach services (spokes) extending to remote areas to ensure comprehensive health access."
+      },
+      {
+        "name": "IRAD NPCCH",
+        "description": "A data-driven initiative for collecting and analyzing road accident data, aiming to improve road safety and reduce fatalities through targeted interventions."
+      }
+    ]
+  },
+  {
+    "unit": "DPO UNIT-1",
+    "userImage": "Image/candidateicon.jpg",
+    "name": "Dr. Anuradha",
+    "email": "diomandi.moh@gmail.com",
+    "contact": "94181-58247",
+    "designation": "District Program Officer - Unit 1",
+    "programs": [
+      {
+        "name": "Maternal & Child Health",
+        "description": "A program dedicated to improving the health and well-being of mothers and children through healthcare services, nutritional support, and preventive measures aimed at reducing maternal and child mortality."
+      },
+      {
+        "name": "RBSK",
+        "description": "A program designed to provide healthcare services to children and adolescents, focusing on the early detection and treatment of diseases, disabilities, and deficiencies."
+      },
+      {
+        "name": "Immunization",
+        "description": "A program aimed at vaccinating children and adults to prevent the spread of infectious diseases and protect communities through herd immunity."
+      },
+      {
+        "name": "RKSK",
+        "description": "A program focused on improving the health of adolescents by providing education on reproductive health, nutrition, mental health, and the prevention of substance abuse."
+      },
+      {
+        "name": "MHP",
+        "description": "A health program designed to monitor and manage healthcare professionals’ performance, ensuring optimal staffing and resource allocation within healthcare institutions."
+      },
+      {
+        "name": "WIFS (Anaemia Mukt Bharat)",
+        "description": "A health initiative aimed at reducing anemia among women and children through iron supplementation, dietary improvements, and education on anemia prevention."
+      },
+      {
+        "name": "Free Drugs Services & DVDMS/Store",
+        "description": "A program that provides essential medicines free of cost to individuals, ensuring better access to healthcare and addressing gaps in medication availability in remote areas."
+      },
+      {
+        "name": "Sahara Yojna",
+        "description": "A welfare scheme designed to provide financial and medical support to vulnerable individuals, including those with chronic illnesses or in need of urgent care."
+      },
+      {
+        "name": "NCPB",
+        "description": "National Program for Prevention and Control of Birth Defects, a program aimed at preventing congenital anomalies and providing health services for affected newborns."
+      },
+      {
+        "name": "NPPCD",
+        "description": "National Program for Prevention and Control of Deafness, which focuses on early detection, prevention, and treatment of hearing loss in children and adults."
+      },
+      {
+        "name": "NOHP",
+        "description": "A health program offering regular training for healthcare professionals to enhance their skills, knowledge, and efficiency in delivering quality services to communities."
+      }
+    ]
+  },
+  {
+    "unit": "DPO UNIT-2",
+    "userImage": "Image/candidateicon.jpg",
+    "name": "Dr. Arindom Roy",
+    "email": "dtohpmnd@rntcp.org",
+    "contact": "94183-16416",
+    "designation": "District Program Officer - Unit 2",
+    "programs": [
+      {
+        "name": "DTO (RNTCP, MMKRNY)",
+        "description": "A program under the Revised National Tuberculosis Control Program (RNTCP) focused on controlling tuberculosis through early detection, treatment, and monitoring, along with the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) to ensure livelihood support for affected families."
+      },
+      {
+        "name": "NLEP",
+        "description": "National Leprosy Eradication Program (NLEP) aims to eliminate leprosy through early diagnosis, treatment, and providing support for rehabilitation of individuals affected by the disease."
+      },
+      {
+        "name": "IDSP",
+        "description": "The Integrated Disease Surveillance Program (IDSP) aims to strengthen disease surveillance systems across India, detecting outbreaks and preventing the spread of communicable diseases."
+      },
+      {
+        "name": "NVBDCP",
+        "description": "The National Vector-Borne Disease Control Program (NVBDCP) focuses on preventing and controlling vector-borne diseases like malaria, dengue, and chikungunya through surveillance, vector control, and public awareness campaigns."
+      },
+      {
+        "name": "DAPO",
+        "description": "The District Ayurvedic Programme Officer (DAPO) is designed to promote and regulate the practices of Ayurveda at the district level, ensuring the availability of quality Ayurvedic services for public health."
+      },
+      {
+        "name": "Blood Storage Units",
+        "description": "A program aimed at establishing and managing blood storage units to ensure the availability of safe blood for transfusions in hospitals, improving emergency care, and saving lives."
+      },
+      {
+        "name": "NVHCP",
+        "description": "The National Vector-Human Control Program (NVHCP) focuses on controlling diseases transmitted through vectors, such as malaria and dengue, by reducing the human-vector interaction and improving community-level disease control measures."
+      },
+      {
+        "name": "VBDCP",
+        "description": "The Vector-Borne Disease Control Program (VBDCP) aims to control and prevent diseases such as malaria, dengue, and chikungunya by targeting their vectors and promoting community participation in disease management."
+      },
+      {
+        "name": "RABIES (NRCP)",
+        "description": "The National Rabies Control Program (NRCP) aims to reduce human rabies deaths through vaccination of stray dogs, public awareness campaigns, and the provision of post-exposure prophylaxis for individuals exposed to rabies."
+      }
+    ]
+  },
+  {
+    "unit": "DPO UNIT-3",
+    "userImage": "Image/candidateicon.jpg",
+    "name": "Dr. Pawnesh",
+    "email": "dpounit4@gmail.com",
+    "contact": "82192-82530",
+    "designation": "District Program Officer - Unit 3",
+    "programs": [
+      {
+        "name": "Family Planning",
+        "description": "Programs aimed at providing reproductive health services, promoting birth control methods, and ensuring informed choices for family planning, including menstrual hygiene and access to gynecological care."
+      },
+      {
+        "name": "Community Process and NUHM",
+        "description": "A program focusing on increasing awareness of prevention and testing, in collaboration with NGOs, to promote health services at the community level under the National Urban Health Mission (NUHM)."
+      },
+      {
+        "name": "Poshan Abhiyan",
+        "description": "A nationwide initiative to improve nutritional outcomes for women and children by focusing on awareness, behavior change, and ensuring access to nutritious food."
+      },
+      {
+        "name": "Disaster",
+        "description": "A program focused on providing immediate healthcare response and support during and after natural or man-made disasters, ensuring that relief efforts are effective in minimizing health risks."
+      },
+      {
+        "name": "JICA Project",
+        "description": "A collaboration with the Japan International Cooperation Agency (JICA) aimed at improving healthcare systems and infrastructure through technical assistance, knowledge sharing, and capacity building."
+      },
+      {
+        "name": "Adarsh Swasth Sansthan",
+        "description": "A healthcare initiative aimed at establishing model healthcare institutions with a focus on high standards of service delivery, quality care, and patient satisfaction."
+      },
+      {
+        "name": "BMBMP",
+        "description": "Bihar Municipal and Management Program (BMBMP) focuses on enhancing public health systems in urban areas through improved governance, infrastructure, and access to basic healthcare services."
+      },
+      {
+        "name": "Palliative Care & NPHCE",
+        "description": "Programs that provide comprehensive palliative care for terminally ill patients and the National Program for Health Care of the Elderly (NPHCE), focused on improving the quality of life for the elderly and addressing their healthcare needs."
+      },
+      {
+        "name": "Dialysis",
+        "description": "A program providing dialysis treatment services to patients with kidney failure, ensuring access to life-saving treatments at affordable rates in public healthcare settings."
+      },
+      {
+        "name": "NIDDCP",
+        "description": "National Integrated Diabetes and Diabetic Care Program (NIDDCP) aims to prevent and control diabetes through early screening, treatment, and awareness, ensuring better management of diabetic conditions."
+      },
+      {
+        "name": "Civil Works",
+        "description": "A program focused on the construction, renovation, and maintenance of healthcare infrastructure, including hospitals, clinics, and other health-related facilities to ensure better access to healthcare."
+      },
+      {
+        "name": "Telemedicine",
+        "description": "A technology-driven program offering remote consultations, diagnostics, and healthcare services, aiming to improve access to medical care in rural and underserved areas."
+      },
+      {
+        "name": "E-Office",
+        "description": "An initiative to digitalize office workflows, streamline administrative processes, and enhance efficiency in government healthcare institutions through the adoption of e-governance tools."
+      },
+      {
+        "name": "NCD & HWC",
+        "description": "Programs focusing on the prevention and control of Non-Communicable Diseases (NCDs) like cancer, diabetes, and cardiovascular diseases, integrated with Health and Wellness Centers (HWC) for community-level interventions."
+      },
+      {
+        "name": "STEMI",
+        "description": "A specialized program focused on the rapid identification and treatment of STEMI (ST-Elevation Myocardial Infarction), a severe heart attack, using early interventions like thrombolysis and emergency medical services."
+      }
+    ]
+  }
+]
