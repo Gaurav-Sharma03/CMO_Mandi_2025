@@ -1,7 +1,7 @@
 [
     {
       "unit": "MOH",
-      "userImage": "images/moh-user.jpg",
+      "userImage": "Image/candidateicon.jpg",
       "name": "Dr. Anjali Verma",
       "email": "anjali.verma@moh.gov.in",
       "contact": "01905-123456",
@@ -19,7 +19,7 @@
     },
     {
       "unit": "DPO UNIT-1",
-      "userImage": "images/dpo1-user.jpg",
+      "userImage": "Image/candidateicon.jpg",
       "name": "Mr. Rakesh Sharma",
       "email": "rakesh.sharma@dpo1.in",
       "contact": "01905-654321",
@@ -37,7 +37,7 @@
     },
     {
       "unit": "DPO UNIT-2",
-      "userImage": "images/dpo2-user.jpg",
+      "userImage": "Image/candidateicon.jpg",
       "name": "Ms. Neha Thakur",
       "email": "neha.thakur@dpo2.in",
       "contact": "01905-789123",
@@ -55,7 +55,7 @@
     },
     {
       "unit": "DPO UNIT-3",
-      "userImage": "images/dpo3-user.jpg",
+      "userImage": "Image/candidateicon.jpg",
       "name": "Mr. Suresh Chauhan",
       "email": "suresh.chauhan@dpo3.in",
       "contact": "01905-987654",

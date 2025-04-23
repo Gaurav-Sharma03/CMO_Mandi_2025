@@ -5,7 +5,7 @@
         "department": "Cardiology",
         "phone": "01905-123456",
         "location": "Mandi City",
-        "image": "images/dr_anil_sharma.jpg",
+        "image": "Image/candidateicon.jpg",
         "services": [
           "ECG",
           "Cardiac Consultation",
@@ -18,7 +18,7 @@
         "department": "Orthopedics",
         "phone": "01905-789012",
         "location": "Sundernagar",
-        "image": "images/dr_meena_verma.jpg",
+        "image": "Image/candidateicon.jpg",
         "services": [
           "Bone Fracture Treatment",
           "Joint Replacement",
@@ -30,7 +30,7 @@
         "department": "Pediatrics",
         "phone": "01905-345678",
         "location": "Karsog",
-        "image": "images/dr_rajeeve_kumar.jpg",
+        "image": "Image/candidateicon.jpg",
         "services": [
           "Child Vaccination",
           "Newborn Care",
@@ -42,7 +42,7 @@
         "department": "Gynecology",
         "phone": "01905-234567",
         "location": "Mandi City",
-        "image": "images/dr_neelam_rani.jpg",
+        "image": "Image/candidateicon.jpg",
         "services": [
           "Pregnancy Checkup",
           "PCOS Management",

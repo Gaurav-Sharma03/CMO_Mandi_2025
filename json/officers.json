@@ -1,0 +1,102 @@
+{
+  "officers": [
+    {
+      "image": "Image/candidateicon.jpg",
+      "name": "Dr. Sanjay Gupta",
+      "designation": "BMO",
+      "posting": "Padhar",
+      "contact_number": "+91-9418490516"
+    },
+    {
+      "image": "Image/candidateicon.jpg",
+      "name": "Dr. pushap Raj",
+      "designation": "BMO",
+      "posting": "Janjehli",
+      "contact_number": "+91-9418424100"
+    },
+    {
+      "image": "Image/candidateicon.jpg",
+      "name": "Dr. Rakesh Roshan Bhardwaj",
+      "designation": "BMO",
+      "posting": "Bagsaid ",
+      "contact_number": "+91-7018989935"
+    },
+    {
+      "image": "Image/candidateicon.jpg",
+      "name": "Dr. Anil Kumar",
+      "designation": "BMO",
+      "posting": "Baldwara",
+      "contact_number": "+91-9816607700"
+    },
+    {
+      "image": "Image/candidateicon.jpg",
+      "name": " Dr. Shekhar Kapur ",
+      "designation": "BMO",
+      "posting": "Kotli",
+      "contact_number": "+91-7018308200"
+    },
+    {
+      "image": "Image/candidateicon.jpg",
+      "name": "Dr. Ranjeet Thakur  ",
+      "designation": "BMO",
+      "posting": "Kataula",
+      "contact_number": "+91-9418465029"
+    },
+    {
+      "image": "Image/candidateicon.jpg",
+      "name": "Dr. Peeyush Vaidya ",
+      "designation": "BMO",
+      "posting": "Ratti",
+      "contact_number": "+91-9805512700"
+    },
+    {
+      "image": "Image/candidateicon.jpg",
+      "name": " Dr.Lal Singh ",
+      "designation": "BMO",
+      "posting": "Rohanda",
+      "contact_number": "+91-9418044744"
+    },
+    {
+      "image": "Image/candidateicon.jpg",
+      "name": " Dr.Vijay Kumar ",
+      "designation": "MO",
+      "posting": "Ladbharol(Officiating BMO)",
+      "contact_number": "+91-7018947006"
+    },
+    {
+      "image": "Image/candidateicon.jpg",
+      "name": "Dr. Dharam Pal ",
+      "designation": "BMO",
+      "posting": "Sandhole",
+      "contact_number": "+91-9418491168"
+    },
+    {
+      "image": "Image/candidateicon.jpg",
+      "name": "Dr. Sandeep Kanwar ",
+      "designation": "MO",
+      "posting": "Karsog (Officiating BMO)",
+      "contact_number": "+91-70186-45530"
+    },
+    {
+      "image": "Image/candidateicon.jpg",
+      "name": " Dr. Desh Raj Sharma ",
+      "designation": "SMO I/C",
+      "posting": "CH Sarkaghat",
+      "contact_number": "+91-9817061076"
+    },
+    {
+      "image": "Image/candidateicon.jpg",
+      "name": " Dr. Chaman Singh Thakur ",
+      "designation": "SMO I/C",
+      "posting": "CH Sundernagar",
+      "contact_number": "+91-8219503088"
+    },
+    {
+      "image": "Image/candidateicon.jpg",
+      "name": "Dr.Roshan Lal Kaundal  ",
+      "designation": " SMO I/C",
+      "posting": "CH Jogindernagar",
+      "contact_number": "+91-8309593307"
+    }
+  ]
+}
